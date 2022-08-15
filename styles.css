@@ -1,10 +1,9 @@
 body 
 {
-  	background-color: rgb(40,40,40);
+  	background-color: rgb(200,207,202);
 }
 .welcome
 {
 	text-align: center;
   	color: rgb(247,245,240);
-	font-family: Monaco, monospace;
 }
