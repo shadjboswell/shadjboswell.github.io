@@ -1,11 +1,11 @@
 body 
 {
-  	background-color: rgb(200,207,202);
+  	background-color: #c2d1c6 ;
 }
 .welcome
 {
 	text-align: center;
-  	color: rgb(33,33,33);
+  	color: #1d1f1e;
 }
 .topnav {
   background-color: #333;
