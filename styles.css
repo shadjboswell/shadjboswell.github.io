@@ -6,7 +6,7 @@ body
 {
     text-align: center;
     color: #1d1f1e;
-    font-family: 'Lucida Console';
+    font-family: "Lucida Console", Verdana;
 }
 .topnav {
     background-color: #333;
