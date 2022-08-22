@@ -1,8 +1,9 @@
 body
 {
   background-color: #b2c3cc;
-  font-family: sans-serif;
+  font-family: 'Aldrich';
   font-size: 20px;
+  font-weight: bold;
   color: black;
 }
 header
