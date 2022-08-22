@@ -9,6 +9,11 @@ body
 header
 {
   color: #04132b;
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+  z-index: 1040;
+  background-color: #b2c3cb;
 }
 .navlistlinks
 {
@@ -101,7 +106,8 @@ a
 {
   padding: 0;
   margin-bottom: 0;
-  margin-top: 10px;
+  margin-top: 40px;
 }
+
 
 
