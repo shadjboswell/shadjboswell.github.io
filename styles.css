@@ -13,7 +13,7 @@ header
   top: 0;
   overflow: hidden;
   z-index: 1040;
-  background-color: #b2c3cb;
+  background-color: #a1b2bb;
 }
 .navlistlinks
 {
@@ -81,8 +81,7 @@ a
 }
 .intro
 {
-  text-align:center;
-  width: 40%;
+  text-align: left;
 }
 .center_home
 {
@@ -93,7 +92,7 @@ a
 }
 .intro_center_home
 {
-  font-size: 64px;
+  font-size: 70px;
   font-family: "Patua One";
 }
 .intro_description
@@ -101,13 +100,14 @@ a
   font-size: 20px;
   margin: 0 auto;
   padding: 0;
+  width: 400px;
 }
 .intro_name
 {
   padding: 0;
   margin-bottom: 0;
   margin-top: 40px;
+  width: 400px;
 }
-
 
 
